@@ -18,7 +18,7 @@ git clone https://github.com/theakash04/buttons.git
 
 ## Usage
 
-Open the `index.html` file in your preferred web browser to see a collection of styled buttons. The associated styles are defined in the `style.css` file.
+Open the `button.html` file in your preferred web browser to see a collection of styled buttons. The associated styles are defined in the `style.css` file.
 
 Feel free to customize and integrate these buttons into your own projects. Modify the HTML and CSS as needed for your design.
 
