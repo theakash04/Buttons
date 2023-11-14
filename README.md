@@ -13,7 +13,7 @@ This repository showcases a collection of styled buttons with minimal animations
 To get started, clone this repository or download the `HTML` file and the associated `CSS` file. Open the HTML file in a web browser to view the buttons.
 
 ```bash
-git clone https://github.com/theakash04/buttons.git
+git clone https://github.com/theakash04/Buttons.git
 ```
 
 ## Usage
