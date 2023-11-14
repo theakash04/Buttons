@@ -1,6 +1,6 @@
 # Buttons | DEX
 
-This repository showcases a collection of styled buttons using HTML and CSS. You can use these buttons as inspiration or directly integrate them into your web projects.
+This repository showcases a collection of styled buttons with minimal animations using HTML and CSS. You can use these buttons as inspiration or directly integrate them into your web projects.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -18,7 +18,7 @@ git clone https://github.com/theakash04/buttons.git
 
 ## Usage
 
-Open the `button.html` file in your preferred web browser to see a collection of styled buttons. The associated styles are defined in the `style.css` file.
+Open the `index.html` file in your preferred web browser to see a collection of styled buttons with minimal animations. The associated styles and animations are defined in the `style.css` file.
 
 Feel free to customize and integrate these buttons into your own projects. Modify the HTML and CSS as needed for your design.
 
