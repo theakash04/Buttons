@@ -12,25 +12,22 @@ button{
     background-color: rgb(200, 17, 17);
     color: white;
     border: none;
-    height: 36px;
-    width: 105px;
+    padding: 12px 15px; /* Top-bottom | left-right*/
     border-radius: 3px;
 }
 .Join{
     background-color: white;
     color: rgb(0, 145, 255);
     border: 1px solid rgb(0, 183, 255);
-    height: 36px;
-    width: 62px;
+    padding: 12px 16px;
     border-radius: 3px;
 }
 .tweet{
     background-color: rgb(0, 170, 255);
     color: white;
     border: none;
-    height: 36px;
-    width: 90px;
-    border-radius: 18px;
+    padding: 12px 19px;
+    border-radius: 20px;
     font-weight: bold;
     font-size: 15px;   
 }
@@ -38,23 +35,20 @@ button{
     background-color: black;
     color: white;
     border: none;
-    height: 36px;
-    width: 110px;
+    padding: 12px 17px;
 }
 
 .Amazon{
     background-color: rgb(255 216 20);
     border: none;
-    height: 36px;
-    width: 170px;
-    border-radius: 18px;
+    padding: 12px 70px;
+    border-radius: 20px;
 }
 .github{
     background-color: rgb(46 164 79);
     color: white;
     font-weight: bold;
-    height: 36px;
-    width: 110px;
+    padding: 12px 20px;
     border: none;
     border-radius: 4px;
 }
@@ -63,16 +57,14 @@ button{
     background-color: rgb(121 82 179);
     color:white;
     border: none;
-    height: 36px;
-    width: 120px;
+    padding: 12px 20px;
     font-weight: 600;
     border-radius: 3px;
 }
 .Bootstrap1{
     background-color: white;
     color: rgb(108 117 125);
-    height: 36px;
-    width: 120px;
+    padding: 12px 29px;
     border: solid rgb(108 117 125) 1px;
     border-radius: 3px;
 }
@@ -81,16 +73,14 @@ button{
     color: white;
     border: none;
     font-weight: bold;
-    height: 36px;
-    width: 230px;
-    border-radius: 18px;
+    padding: 12px 40px;
+    border-radius: 20px;
 }
 .lin1{
     background-color: white;
     color: rgb(10, 102, 194);
     border:solid 1px rgb(10, 102, 194);
-    height: 36px;
-    width: 80px;
-    border-radius: 18px;
+    padding: 12px 28px;
+    border-radius: 25px;
     font-size: 16px;
 }
