@@ -37,7 +37,7 @@ Feel free to customize and integrate these buttons into your own projects. Modif
 
 ## Showcase
 
-Check out the [Video](Assests\Buttons_showcase.mp4) and [Image](Assests\Buttons_ss.png) to see the buttons in action.
+Check out the [Video](Assests/Buttons_showcase.mp4) and [Image](Assests/Buttons_ss.png) to see the buttons in action.
 
 ## License
 
