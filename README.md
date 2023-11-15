@@ -35,6 +35,10 @@ Feel free to customize and integrate these buttons into your own projects. Modif
 - Apply on Company Website Button
 - Save Button
 
+## Showcase
+
+Check out the [Video](Assests\Buttons_showcase.mp4) and [Image](Assests\Buttons_ss.png) to see the buttons in action.
+
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
