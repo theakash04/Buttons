@@ -1,25 +1,21 @@
-body{
-    background-color: white;
-    overflow: auto;
-}
-
 button{
     cursor: pointer;
     margin-bottom: 10px;
     margin-right: 5px;
 }
+
 .youtube{
     background-color: rgb(200, 17, 17);
     color: white;
     border: none;
-    padding: 12px 15px; /* Top-bottom | left-right*/
+    padding: 10px 17px; /* Top-bottom | left-right*/
     border-radius: 3px;
 }
 .Join{
     background-color: white;
     color: rgb(0, 145, 255);
     border: 1px solid rgb(0, 183, 255);
-    padding: 12px 16px;
+    padding: 11px 16px;
     border-radius: 3px;
 }
 .tweet{
@@ -64,7 +60,7 @@ button{
 .Bootstrap1{
     background-color: white;
     color: rgb(108 117 125);
-    padding: 12px 29px;
+    padding: 11px 29px;
     border: solid rgb(108 117 125) 1px;
     border-radius: 3px;
 }
@@ -80,7 +76,29 @@ button{
     background-color: white;
     color: rgb(10, 102, 194);
     border:solid 1px rgb(10, 102, 194);
-    padding: 12px 28px;
+    padding: 11px 28px;
     border-radius: 25px;
     font-size: 16px;
+}
+
+.pagination{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    align-items: baseline;
+}
+.b{
+    border: solid black 1px;
+    border-radius: 3px;
+    padding: 10px 16px;
+    margin-left: 0px;
+}
+.n{
+    border: solid black 1px;
+    border-radius: 3px;
+    margin-left: 20px;
+    padding: 10px 16px;
+}
+.pagination>a{
+    margin-left: 15px;
 }

@@ -8,6 +8,7 @@
     opacity: 0.7;
 }
 .youtube:active{
+    opacity: 1;
     background-color: rgb(161, 161, 161);
     color: rgb(75, 75, 75);
 }
